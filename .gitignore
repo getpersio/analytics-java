@@ -129,3 +129,4 @@ atlassian-ide-plugin.xml
 .project
 .settings/
 .factorypath
+.m2
